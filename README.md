@@ -1,4 +1,5 @@
 # NPTEL: Digital Circuits  
+
 ### By Prof. Santanu Chattopadhyay, IIT Kharagpur
 
 This repository contains detailed notes for the **Digital Circuits** course, a 12-week program (3 months) offered through NPTEL.
